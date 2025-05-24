@@ -2,8 +2,8 @@
 
 Please fill out the following. You can fill in the project topic once you have decided.
 ```
-Name:
-Project topic:
+Name: Sophie
+Project topic: The motion of a particle in a magnetic field/electric field
 ```
 
 ## Your own project
